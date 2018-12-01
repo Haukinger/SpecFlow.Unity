@@ -2,7 +2,7 @@
 
 using BoDi;
 
-using Microsoft.Practices.Unity;
+using Unity;
 
 using TechTalk.SpecFlow.Infrastructure;
 
